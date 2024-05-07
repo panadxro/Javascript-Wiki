@@ -1,0 +1,15 @@
+.seccion {
+  background-color: #161616;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.parrafo {
+  background-color: aliceblue;
+  padding: 1rem;
+}
+
+.parrafo.dragging {
+  background-color: darkslategray;
+}
+
